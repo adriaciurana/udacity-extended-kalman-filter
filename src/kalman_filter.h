@@ -2,6 +2,7 @@
 #define KALMAN_FILTER_H_
 
 #include "Eigen/Dense"
+#include <math.h>
 
 class KalmanFilter {
  public:
